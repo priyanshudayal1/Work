@@ -1,0 +1,15 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/test",
+        "user_role1":"R0001",
+        "user_role2":"R0004",
+        "user_role3":"R0019",
+        "user_role4":"R0003",
+        "user_role5":"R0006",
+        "user_role6":"R0009",
+        "user_role7":"R0013",
+        "user_role8":"R0015",
+        "user_role9":"R0000"
+    }
+}
